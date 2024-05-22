@@ -22,7 +22,7 @@ L'estructura de la pàgina es la següent tot divin-se en 5 apartats ben diferen
 Per facilitar la lectura en totes els dispositius s'ha dissenyat un codi responsive per que es pugi adaptar a tot tipus de pagines.
 
 ![Captura de pantalla 2024-05-22 092010](https://github.com/ArnauFargas/PROJECTEFINAL_GIVP/assets/166983359/92de1563-235d-4ea0-bcdb-e979e8f6752c)
-# CAROGRAFIA
+# CARTOGRAFIA
 S'han elaborat dos tipus de mapes, en primer lloc un mapa realitzat en QGIS per representar un projecte que s'esta realitzant sobre la distribució de les vinyes a la comarca, i d'altra banda un mapa en OPENSTREET Maps sobre diferents punts on treballa el GIVP. En aquest mapa ens podem moure lliurement fent zoom +/- sobre la zona.
 # DIFICULTATS I MILLORES
 Reflexiona proactivament sobre el producte elaborat.
